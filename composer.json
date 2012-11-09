@@ -1,0 +1,16 @@
+{
+    "name": "lx/bootstrap-bundle",
+    "description": "This bundle provides Twitter's \"Bootstrap\" framework written in SCSS(https://github.com/jlong/sass-twitter-bootstrap) and Javascript for the Symfony2 framework.",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Victor J. C. Geyer",
+            "email": "victorgeyer@ciscaja.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": { "lx\\BootstrapBundle": "" }
+    },
+    "target-dir": "lx/BootstrapBundle"
+}
