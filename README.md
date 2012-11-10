@@ -28,10 +28,10 @@ assetic:
     filters:
         sass: #this wont work
             load_paths:
-                - %bootstrap_sources%
+                - %assetic.sass.sources.boostrap%
         compass: #this works fine
             load_paths:
-                - %bootstrap_sources%
+                - %assetic.sass.sources.boostrap%
 	
 ```
 
